@@ -1,6 +1,7 @@
 # VR Study Space
 ## A personalized study space in virtual reality!
 ### [Youtube Demo](https://youtu.be/ctZgmqUDDzU)
+Team: Sunny Liu & Samuel Tang
 
 ![2020-12-29 19 54 03 (1)](https://user-images.githubusercontent.com/26547344/189531435-d81592f6-a629-41f8-8bbe-4f59785d5ddb.gif)
 
